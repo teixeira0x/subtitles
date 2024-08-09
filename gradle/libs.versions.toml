@@ -26,4 +26,4 @@ common-utilcode = { module = "com.blankj:utilcodex", version = "1.31.1" }
 [plugins]
 android-application = { id = "com.android.application", version = "8.1.1" }
 android-library = { id = "com.android.library", version = "8.1.1" }
-kotlin = { id = "org.jetbrains.kotlin.android", version = "1.9.10" }
+kotlin = { id = "org.jetbrains.kotlin.android", version = "2.0.10" }
